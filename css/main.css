@@ -1,0 +1,72 @@
+body{
+    background-image: url(bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+#header{
+    width: 100%;
+    height: 30%;
+}
+
+#header h1{
+    background-color: blanchedalmond;
+    position: relative;
+    top: 10%;
+    color:darkblue;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#header h2{
+    color: blanchedalmond;
+    font-size: medium;
+    text-align: center;
+}
+#div1{
+    width: 100%;
+    height: 55%;
+    background-color: blanchedalmond;
+
+}
+
+
+#div1 table{
+
+    width : 100%;
+    font-size: x-large;
+}
+
+#div1 #butt{
+    background-color: darkblue;
+    color: blanchedalmond;
+    position: absolute;
+    top: 85%;
+    left: 45%;
+    width: 10%;
+    height: 10%;
+}
+#div1 table button{
+    background-color: darkblue;
+    color: blanchedalmond;
+    height: 55px;
+    font-size: large;
+}
+
+tr{
+    height: 60px;
+}
+input{
+    width: 50%;
+    height: 60px;
+    font-size: x-large;
+}
+.done{
+    text-decoration: line-through;
+}
+
+table{
+    border: solid 1px;
+    border-color: black;
+}
